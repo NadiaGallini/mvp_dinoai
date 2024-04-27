@@ -12,15 +12,7 @@ npm run dev
 > quasar dev
 
 
- .d88888b.
-d88P" "Y88b
-888     888
-888     888 888  888  8888b.  .d8888b   8888b.  888d888
-888     888 888  888     "88b 88K          "88b 888P"
-888 Y8b 888 888  888 .d888888 "Y8888b. .d888888 888
-Y88b.Y8b88P Y88b 888 888  888      X88 888  888 888
- "Y888888"   "Y88888 "Y888888  88888P' "Y888888 888
-       Y8b
+![image](https://github.com/NadiaGallini/mvp_dinoai/assets/52111855/0cc9ee8f-ba29-42f1-b806-48733c1e0300)
 
 
  Dev mode.................. spa
