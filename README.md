@@ -2,6 +2,8 @@
 
 Добро пожаловать в мир приключение DinoAi!
 
+Проект можно скачать с Яндекс.Диска https://disk.yandex.ru/d/ynNSIfqfC_0Idw
+
 Стек решения DinoAi: Quasar, FastAPI, ML NLTK, Hugging Face, Postgres, Celery и Redis.
 
 Запуск DinoAi происходит очень просто.
